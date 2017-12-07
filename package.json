@@ -1,0 +1,26 @@
+{
+  "name": "fix-jwt-auth",
+  "version": "1.0.0",
+  "description": "An express authentication microservice app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmhiri/express-microservice-authentication.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "jwt",
+    "microservice",
+    "authentication"
+  ],
+  "author": "mohamed mhiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedmhiri/express-microservice-authentication/issues"
+  },
+  "homepage": "https://github.com/mohamedmhiri/express-microservice-authentication#readme"
+}
